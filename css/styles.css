@@ -175,11 +175,11 @@ img {
   fill: currentColor;
   margin-right: 10px;
 }
-.studio-header-nav {
+.site-nav--studio {
   color: #2196f3;
 }
 
-.portfolio-header-nav {
+.site-nav--portfolio {
   color: #2196f3;
 }
 
