@@ -1,2 +1,2 @@
-:root{--main-font: "Roboto", sans-serif;--secondary-font: "Raleway", sans-serif;--accent-color: #2196f3;--duration: 250ms;--timing-function: cubic-bezier(0.4, 0, 0.2, 1)}
+:root{--main-font: "Roboto", sans-serif;--secondary-font: "Raleway", sans-serif;--accent-color: #2196f3;--duration: 250ms;--timing-function: cubic-bezier(0.4, 0, 0.2, 1)}.vissual-hidden{position:absolute;white-space:nowrap;width:1px;height:1px;overflow:hidden;border:0;padding:0;margin:-1px;clip:rect(0 0 0 0);-webkit-clip-path:inset(50%);clip-path:inset(50%)}body{background:#ffffff;font-family:var(--main-font);color:#212121}
 /*# sourceMappingURL=main.min.css.map */

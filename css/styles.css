@@ -1,9 +1,4 @@
 
-body {
-  background: #ffffff;
-  font-family: var(--main-font);
-  color: #212121;
-}
 
 .container {
   width: 1200px;
@@ -43,18 +38,7 @@ img {
   height: auto;
 }
 
-.vissual-hidden {
-  position: absolute;
-  white-space: nowrap;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  border: 0;
-  padding: 0;
-  margin: -1px;
-  clip: rect(0 0 0 0);
-  clip-path: inset(50%);
-}
+
 
 /*#region HEADER*/
 .header {

@@ -1,9 +1,13 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,KAAK,AAAC,CACF,WAAW,CAAA,qBAAC,CACZ,gBAAgB,CAAA,sBAAC,CACjB,cAAc,CAAA,QAAC,CAGf,UAAU,CAAA,MAAC,CACX,iBAAiB,CAAA,6BAAC,CACrB",
+    "mappings": "ACAA,AAAA,KAAK,AAAC,CACF,WAAW,CAAA,qBAAC,CACZ,gBAAgB,CAAA,sBAAC,CACjB,cAAc,CAAA,QAAC,CAGf,UAAU,CAAA,MAAC,CACX,iBAAiB,CAAA,6BAAC,CACrB,ACRD,AAAA,eAAe,AAAC,CACZ,QAAQ,CAAE,QAAQ,CAClB,WAAW,CAAE,MAAM,CACnB,KAAK,CAAE,GAAG,CACV,MAAM,CAAE,GAAG,CACX,QAAQ,CAAE,MAAM,CAChB,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,MAAM,CAAE,IAAI,CACZ,IAAI,CAAE,aAAa,CACnB,SAAS,CAAE,UAAU,CACxB,ACXD,AAAA,IAAI,AAAC,CACD,UAAU,CAAE,OAAO,CACnB,WAAW,CAAE,gBAAgB,CAC7B,KAAK,CAAE,OAAO,CACjB",
     "sources": [
         "../scss/main.scss",
-        "../scss/utils/_vars.scss"
+        "../scss/utils/_vars.scss",
+        "../scss/utils/_visually-hidden.scss",
+        "../scss/base/_common.scss",
+        "../scss/base/_container.scss",
+        "../scss/base/_reset.scss"
     ],
     "names": [],
     "file": "main.min.css"
