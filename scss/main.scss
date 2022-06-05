@@ -5,5 +5,15 @@
 
 // base styles
 @import './base/common';
-@import './base/container';
 @import './base/reset';
+@import './base/container';
+
+
+// components
+@import './components/button';
+@import './components/social';
+@import './components/logo';
+@import './components/modal-form';
+@import './components/footter-contact-form';
+
+// layouts
