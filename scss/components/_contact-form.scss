@@ -1,14 +1,14 @@
 /* footer-contact-form */
 
-.footer__form {
+.contact-form {
     width: 570px;
 }
 
-.footer__form-group {
+.contact-form__group {
     margin-right: 12px;
 }
 
-.footer__form-name {
+.contact-form__name {
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -19,12 +19,12 @@
     margin-bottom: 20px;
 }
 
-.footer__contact-form {
+.contact-form__form {
     display: flex;
     text-align: center;
 }
 
-.footer__form-input {
+.contact-form__input {
     background-color: transparent;
     width: 358px;
     cursor: pointer;
@@ -56,7 +56,7 @@
         }
 }
 
-.footer__buttom-order {
+.contact-form__buttom {
     font-weight: 700;
     font-size: 16px;
     line-height: 1.87;
@@ -76,7 +76,7 @@
     min-width: 200px;
 }
 
-.footer__form-icon {
+.contact-form__icon {
     fill: #ffff;
     right: 18px;
     margin-left: 10px;

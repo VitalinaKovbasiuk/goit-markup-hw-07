@@ -1,5 +1,5 @@
-// utils
 
+// utils
 @import './utils/vars';
 @import './utils/visually-hidden';
 
@@ -14,6 +14,13 @@
 @import './components/social';
 @import './components/logo';
 @import './components/modal-form';
-@import './components/footter-contact-form';
+@import './components/contact-form';
 
 // layouts
+@import './layouts/header';
+@import './layouts/hero';
+@import './layouts/peculiarities';
+@import './layouts/what-are-we-doing';
+@import './layouts/our-team';
+@import './layouts/regular-customers';
+
